@@ -5,8 +5,8 @@
 **Who**: Superior                                 
 **What**: The purpose of this project is to predict individual technician risk percentage. Thus, superior able to select/allocate technician to the task based on their risk percentage. 
 For detailed walkthrough, please view the source code in order from:
-- [Data Preparation](https://github.com/TanGuiShan/Safety/blob/main/Safety_Data%20Analysis.ipynb)
-- [Data Analysis](https://github.com/TanGuiShan/Safety/blob/main/Safety_Data%20Preparation.ipynb)
+- [Data Preparation](https://github.com/TanGuiShan/Safety/blob/main/Safety_Data%20Preparation.ipynb)
+- [Data Analysis](https://github.com/TanGuiShan/Safety/blob/main/Safety_Data%20Analysis.ipynb)
 
 ## Explanation of Key Steps
 ### Data Preprocessing
